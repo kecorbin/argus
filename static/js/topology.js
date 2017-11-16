@@ -33,7 +33,7 @@
                     // initialize a topology
                     var topo = new nx.graphic.Topology({
                         // set the topology view's with and height
-                        width: 1000,
+                        width: 1200,
                         height: 1000,
                         // node config
                         nodeConfig: {
